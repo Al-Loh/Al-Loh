@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Al-Loh
+- 👋 Hi, I’m @Al-Loh (The Book)
 - 👀 I’m interested in LLM, AI, MACHINE LEARNING AND JUST ANYTHING RELATED TO INTERESTING STUFF.
 - 🌱 I’m currently learning LARGE LANGUAGE MODELS FROM DEEPLEARNING AI
 - 💞️ I’m looking to collaborate on CHATBOTS BASED ON RAG IMPLEMENTATION
